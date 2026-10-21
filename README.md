@@ -3,8 +3,9 @@
 > **Note on repository access:** TechCord was a team project. This is my public showcase repository; the original team repositories contain provided starter code and remain private for academic integrity reasons. This README documents my contributions and design decisions. Representative code excerpts are in [`showcase/`](./showcase).
 
 <p align="center">
-  <img src="docs/screenshot-bot.png" alt="TechCord bot responding to /news in Discord" width="600">
-</p>
+  <img src="<p align="center">
+  <img src="techcord-home.png" alt="Auctionary homepage" width="700"> </p>
+
 
 ## 🎥 Demo Recording
 
